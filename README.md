@@ -15,7 +15,7 @@ A storytelling app built using JavaScript as part of the freeCodeCamp curriculum
 
 ## Live Demo
 
-[Click here to view the project](YOUR_LIVE_DEMO_LINK)
+[Click here to view the project](https://shaiksajida124.github.io/Story-Telling-App-fCC/)
 
 ## Acknowledgements
 
